@@ -122,7 +122,7 @@ intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_163051188966
 ipykernel @ file:///C:/ci/ipykernel_1646982785443/work/dist/ipykernel-6.9.1-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1648817223581/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipython-sql==0.4.1
+jupysql
 ipywidgets==8.0.2
 isort @ file:///tmp/build/80754af9/isort_1628603791788/work
 itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
